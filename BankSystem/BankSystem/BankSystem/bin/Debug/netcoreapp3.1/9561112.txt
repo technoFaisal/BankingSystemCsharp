@@ -1,0 +1,8 @@
+First Name |ahmad	
+Last Name |randhawa
+Address |9 hardy ave
+Phone |460939833
+Email |ahmadabdullahr3@gmail.com
+AccountNo |9561112
+Balance |10000000000000000
+26/09/2021 | Deposit | 10000000000000000 | 10000000000000000

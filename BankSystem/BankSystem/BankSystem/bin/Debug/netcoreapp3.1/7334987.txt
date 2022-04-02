@@ -1,0 +1,7 @@
+First Name | 1
+Last Name | 1
+Address | 1
+Phone | 12
+Email | faisaltest.net@gmail.com
+AccountNo | 7334987
+Balance | 0

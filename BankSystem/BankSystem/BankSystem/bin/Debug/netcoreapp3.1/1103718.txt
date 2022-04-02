@@ -1,0 +1,9 @@
+First Name |ali	
+Last Name |shahid
+Address |johar town
+Phone |123456789
+Email |faisaltest.net@gmail.com
+AccountNo |1103718
+Balance |400
+28/09/2021 | Deposit | 500 | 500
+28/09/2021 | Withdraw | 100 | 400

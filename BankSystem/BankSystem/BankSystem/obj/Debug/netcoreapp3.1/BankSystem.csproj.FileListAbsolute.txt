@@ -1,0 +1,26 @@
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfoInputs.cache
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfo.cs
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.exe
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.deps.json
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.json
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.dev.json
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache
+C:\Users\faisa\OneDrive\Desktop\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.AssemblyReference.cache
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.exe
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.deps.json
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.json
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.dev.json
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.AssemblyReference.cache
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfoInputs.cache
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfo.cs
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\faisa\OneDrive\Desktop\csharp\asssharp\final version\BankSystem\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache

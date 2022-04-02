@@ -1,0 +1,13 @@
+First Name |faisal
+Last Name |shahid
+Address |hardy ave
+Phone |1235453
+Email |faisalshahaid2000@gmail.com
+AccountNo |2482192
+Balance |562425
+29/09/2021 | Deposit | 515618 | 515618
+29/09/2021 | Deposit | 52151 | 567769
+29/09/2021 | Withdraw | 315 | 567454
+29/09/2021 | Deposit | 541 | 567995
+29/09/2021 | Withdraw | 5415 | 562580
+29/09/2021 | Withdraw | 155 | 562425

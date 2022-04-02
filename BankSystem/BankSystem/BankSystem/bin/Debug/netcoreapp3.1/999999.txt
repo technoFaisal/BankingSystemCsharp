@@ -1,0 +1,10 @@
+First Name |Faisal
+Last Name |Shahid
+Address |9 Hardy Ave.
+Phone |123456789
+Email |faisaltest.net@gmail.com
+AccountNo |999999
+Balance |665560
+29/09/2021 | Deposit | 500000 | 664540
+29/09/2021 | Deposit | 1520 | 666060
+29/09/2021 | Withdraw | 500 | 665560

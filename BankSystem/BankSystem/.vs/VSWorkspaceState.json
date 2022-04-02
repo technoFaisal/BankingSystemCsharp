@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BankSystem",
+    "\\BankSystem\\bin",
+    "\\BankSystem\\bin\\Debug",
+    "\\BankSystem\\bin\\Debug\\netcoreapp3.1",
+    "\\BankSystem\\bin\\Release\\netcoreapp3.1",
+    "\\BankSystem\\obj\\Debug",
+    "\\BankSystem\\obj\\Debug\\netcoreapp3.1",
+    "\\BankSystem\\obj\\Release\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\BankSystem\\bin\\Debug\\netcoreapp3.1\\login.txt",
+  "PreviewInSolutionExplorer": false
+}
